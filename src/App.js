@@ -1,6 +1,6 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
-import Prac from "./Prac";
+import Prac from "./StarLoop";
 
 const App = () => {
   const [user, setUser] = useState([]);

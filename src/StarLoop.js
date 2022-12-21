@@ -1,4 +1,4 @@
-let n = 5;
+let n = 28;
 let string = "";
 
 for (let i = 1; i <= n; i++) {
